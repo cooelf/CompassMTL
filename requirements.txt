@@ -1,0 +1,7 @@
+numpy
+torch
+transformers==4.17.0
+wandb
+sentencepiece
+sklearn
+datasets
