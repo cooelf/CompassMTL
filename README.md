@@ -2,6 +2,9 @@
 
 ![](https://github.com/cooelf/CompassMTL/blob/main/fig/overview.png)
 
+This repository contains the source code for the EMNLP 2022 (Findings) paper: **Task Compass: Scaling Multi-task Pre-training with Task Prefix** [\[PDF\]](https://arxiv.org/abs/2210.06277). In this paper, we propose a task prefix guided multi-task pre-training framework (CompassMTL) to explore the relationships among tasks. CompassMTL is based on the DeBERTa architecture, trained with 40 natural language understanding tasks. Please refer more details in our paper.
+
+
 ## Environment
 
 - numpy
